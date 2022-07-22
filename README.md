@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ...cloud computing
 - 💞️ I’m looking to collaborate on ...AWS
 - 📫 How to reach me ...likhithraj005@gmail.com
-Fun fact: .. I am half Finnish
+- Fun fact: .. I am half Finnish
 " If You Could Read my Mind, You'd Probably lose Yours".
