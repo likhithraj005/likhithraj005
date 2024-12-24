@@ -1,9 +1,7 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-
-![N Likhith Raj - Backend Developer](https://raw.githubusercontent.com/your-github-username/your-repo-name/main/path-to-banner-image.png)
+![N Likhith Raj - Backend Developer](https://github.com/likhithraj005/likhithraj005/blob/main/banner.png)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-<h4>I'm N. Likhith Raj</h4>
+<h4>I'm N. Likhith Raj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h4> 
 <h5>A self-taught passionate backend developer with expertise in Spring Boot, Java, and databases like MySQL, PostgreSQL, and MongoDB. Certified in Azure Fundamentals (AZ-900, DP-900, AI-900, SC-900, AZ-204) and Oracle Java SE8 Programmer 1. Hands-on experience with AWS, GCP, and Docker, passionate about building robust and scalable backend systems</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithraj005&label=Profile%20views&color=0e75b6&style=flat" alt="likhithraj005" /> </p>
