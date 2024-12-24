@@ -1,4 +1,4 @@
-![N Likhith Raj - Backend Developer](https://github.com/likhithraj005/likhithraj005/blob/main/banner.png)
+![N Likhith Raj - Backend Developer](https://github.com/likhithraj005/likhithraj005/blob/main/banner_profile.png)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <h4>I'm N. Likhith Raj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h4> 
