@@ -1,13 +1,14 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-<h4>Hi I'm N Likhith Raj</h4>
-<h5>I'm a self-taught passionate backend developer with expertise in Spring Boot, Java, and databases like MySQL, PostgreSQL, and MongoDB. Certified in Azure Fundamentals (AZ-900, DP-900, AI-900, SC-900, AZ-204) and Oracle Java SE8 Programmer 1. Hands-on experience with AWS, GCP, and Docker, passionate about building robust and scalable backend systems</h5>
+<h4>I'm N. Likhith Raj</h4>
+<h5>A self-taught passionate backend developer with expertise in Spring Boot, Java, and databases like MySQL, PostgreSQL, and MongoDB. Certified in Azure Fundamentals (AZ-900, DP-900, AI-900, SC-900, AZ-204) and Oracle Java SE8 Programmer 1. Hands-on experience with AWS, GCP, and Docker, passionate about building robust and scalable backend systems</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithraj005&label=Profile%20views&color=0e75b6&style=flat" alt="likhithraj005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhithraj005" alt="likhithraj005" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - 👨‍💻 All of my projects are available at my portfolio: [https://likhithraj.netlify.app](https://likhithraj.netlify.app)
 
